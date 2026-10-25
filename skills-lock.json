@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "ponytail": {
+      "source": "dietrichgebert/ponytail",
+      "sourceType": "github",
+      "skillPath": "skills/ponytail/SKILL.md",
+      "computedHash": "061f887d9e3e735f85db3be3655a8936a00f24d5fb65ac4ab74a968a770fe342"
+    },
+    "telnyx-stt-python": {
+      "source": "team-telnyx/skills",
+      "sourceType": "github",
+      "skillPath": "skills/telnyx-stt-python/SKILL.md",
+      "computedHash": "65ff13a309b3c90e1766ef6894b91524cd57b251ae79b7a926d7b933a209e55d"
+    },
+    "telnyx-tts-python": {
+      "source": "team-telnyx/skills",
+      "sourceType": "github",
+      "skillPath": "skills/telnyx-tts-python/SKILL.md",
+      "computedHash": "eec5d02ffa28baea3b7006e5819e8b09285fd49aa21a3dbf2ac98ace2f21c21f"
+    },
+    "telnyx-voice-python": {
+      "source": "team-telnyx/skills",
+      "sourceType": "github",
+      "skillPath": "skills/telnyx-voice-python/SKILL.md",
+      "computedHash": "6aaec7930db12788e1091b5e9ab558e6893ace89b94081f6bd4f671fe7fa2089"
+    }
+  }
+}

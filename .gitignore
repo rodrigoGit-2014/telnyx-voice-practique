@@ -1,0 +1,23 @@
+# Secretos y configuración local
+.env
+.env.*
+!.env.example
+opencode.json
+
+# Estado local del túnel (la URL cambia en cada arranque)
+.tunnel_url
+
+# Datos de llamadas: teléfonos y transcripciones reales
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# macOS y editores
+.DS_Store
+*.log
+.idea/
+.vscode/
